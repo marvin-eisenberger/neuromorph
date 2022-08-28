@@ -52,7 +52,7 @@ We show below how to reproduce the experiments on the FAUST remeshed data.
 ### Data download
 
 You can download experimental mesh data from [here](https://nuage.lix.polytechnique.fr/index.php/s/LJFXrsTG22wYCXx) from the authors of the [Deep Geometric Functional Maps](https://github.com/LIX-shape-analysis/GeomFmaps).
-Download the `FAUST_r.zip` file from this site, unzip it, and move the content of the directory to `<NEUROMORPH_ROOT>/data/mesh/FAUST_r` .
+Download the `FAUST_r.zip` file from this site, unzip it, and move the content of the directory to `<NEUROMORPH_ROOT>/data/meshes/FAUST_r` .
 
 ### Data preprocessing
 
